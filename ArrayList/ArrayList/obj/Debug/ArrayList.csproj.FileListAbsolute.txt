@@ -1,0 +1,7 @@
+C:\Users\SONY\source\repos\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\SONY\source\repos\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\SONY\source\repos\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\SONY\source\repos\ArrayList\ArrayList\obj\Debug\ArrayList.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\SONY\source\repos\ArrayList\ArrayList\obj\Debug\ArrayList.pdb
